@@ -1,0 +1,16 @@
+.characters{
+    position: relative;
+}
+.character__title{
+    position: absolute;
+    left: 24%;
+    top: 20%; 
+    font-size: 5rem;
+    color: rgb(230, 230, 230);
+}
+.character__image{
+    position: absolute;
+    left: 10%;
+    top: 7rem;
+    width: 17%;
+}
